@@ -1,0 +1,48 @@
+.MuiAppBar-colorPrimary{
+  background-color: #2E4B64 !important;
+}
+.makeStyles-root-1 {
+  flex-grow: 1;
+  background-color: #fff;
+  width:60%;
+  margin-left: 20%;
+  margin-top: 2%;
+}
+.MuiFormControl-root{
+  width:100%;
+  margin-top: 25px !important;
+}
+.MuiFormGroup-root{
+  display: unset !important;
+}
+.header_text,.footer_text{
+  text-align: center;
+}
+body{
+  background: #F2F2F2;
+}
+.Login_text{
+  color:#ED5901;
+}
+.MuiButton-containedPrimary{
+  width: 100% !important;
+  margin-top: 20px !important;
+  background: #ED5901 !important;
+}
+.MuiFormControlLabel-root{
+  width: 45%;
+}
+.MuiTypography-body1{
+  min-width: 100%;
+}
+.row .MuiButton-containedPrimary{
+  width: 75% !important;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.PrivateTabIndicator-colorSecondary-67{
+  background-color: #ED5901 !important;
+}
+.MuiTab-textColorInherit{
+  width:33.3%;
+}
