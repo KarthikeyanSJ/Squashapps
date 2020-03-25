@@ -5,7 +5,9 @@ Demo - Organization Registration Form
 
 ### `npm install` on BackEnd Folder.
 
-Then Both are run differenct terminal like ### `npm start` command.
+Then Both are run differenct terminal like 
+### `npm start`
+command.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
