@@ -1,11 +1,11 @@
 # Squashapps
 Demo - Organization Registration Form
 
-Npm Install on Root Folder.
+### `npm install` on Root Folder.
 
-Npm Install on BackEnd Folder.
+### `npm install` on BackEnd Folder.
 
-Then Both are run differenct terminal like Npm start command.
+Then Both are run differenct terminal like ### `npm start` command.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
